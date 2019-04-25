@@ -1,4 +1,4 @@
-# B Dolla was here
+# Ball is Life
 
 For Thinkful Detroit's Git &amp; GitHub Workshop
 
