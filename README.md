@@ -1,4 +1,4 @@
-# Ball is Life
+# Thinkful Event
 
 For Thinkful Detroit's Git &amp; GitHub Workshop
 
