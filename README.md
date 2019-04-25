@@ -1,4 +1,4 @@
-# Bryson Bruce McKenzie
+# B Dolla was here
 
 For Thinkful Detroit's Git &amp; GitHub Workshop
 
