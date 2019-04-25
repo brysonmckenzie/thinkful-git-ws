@@ -1,4 +1,4 @@
-# Ball is Life
+# Ball is Not Life
 
 For Thinkful Detroit's Git &amp; GitHub Workshop
 
